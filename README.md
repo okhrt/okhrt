@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**okhrt/okhrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Hiroto Oka 👋
+I mainly work on Ruby and Vue.js, and interested in Flutter.
 
-Here are some ideas to get you started:
+## Get in touch!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linkedin: https://www.linkedin.com/in/hiroto-oka-074306161/
+- Facebook: https://facebook.com/okhrt
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=okhrt&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okhrt" />
+</a>
